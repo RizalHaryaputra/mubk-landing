@@ -225,6 +225,9 @@ useHead({
   ],
   style: [
     { children: 'body { font-family: "Plus Jakarta Sans", sans-serif; }' }
+  ],
+  link: [
+    { rel: 'icon', type: 'image/png', href: '/logo.png' }
   ]
 })
 </script>
