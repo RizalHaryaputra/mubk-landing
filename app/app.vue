@@ -199,7 +199,7 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue';
 
-const paymentLink = 'https://app.sandbox.midtrans.com/payment-links/cbdfbe5a-a3bb-4b53-a292-db194e790687';
+const paymentLink = 'https://app.sandbox.midtrans.com/payment-links/a8d1fb9c-6253-425b-b633-5691069e7ab0';
 const scrolled = ref(false);
 
 const handleScroll = () => {
