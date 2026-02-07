@@ -1,75 +1,22 @@
-# Nuxt Minimal Starter
+# MUBK Ramadhan Landing Page 🌙
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Landing page modern dan responsif untuk pendaftaran **Program Bahasa Arab Dasar (BADAR) Spesial Ramadhan** di Mahad Umar Bin Khattab (YPIA Academy).
 
-## Setup
+Website ini dibangun dengan pendekatan **MVP (Minimum Viable Product)** yang mengutamakan kecepatan akses, kemudahan pendaftaran, dan desain UI yang *clean* (Urban/Bento Style).
 
-Make sure to install dependencies:
 
-```bash
-# npm
-npm install
+## 🚀 Fitur Utama
 
-# pnpm
-pnpm install
+* **Modern UI (Bento Grid):** Tampilan informasi yang terstruktur rapi, estetik, dan mudah dibaca.
+* **Mobile-First Design:** Dilengkapi dengan *Sticky Bottom CTA* untuk meningkatkan konversi di perangkat seluler.
+* **Midtrans Integration:** Menggunakan **Midtrans Payment Link** untuk proses checkout dan pembayaran yang aman tanpa perlu coding backend yang rumit.
+* **Performance:** Dibangun di atas **Nuxt 3** yang sangat ringan dan cepat (Static Generation friendly).
+* **Typography:** Menggunakan font *Plus Jakarta Sans* untuk kesan modern dan profesional.
 
-# yarn
-yarn install
+## 🛠️ Tech Stack
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+* **Framework:** [Nuxt 3](https://nuxt.com/) (Vue.js)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Font:** Google Fonts (Plus Jakarta Sans)
+* **Payment Gateway:** Midtrans (Payment Link)
+* **Deployment:** Vercel (Recommended)
